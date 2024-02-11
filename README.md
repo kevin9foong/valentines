@@ -1,4 +1,4 @@
-# Valentine's day program
+# Valentine's day: A special invitation
 
 ## Demo:
 ![Valentine's app demo](/demo.gif)
